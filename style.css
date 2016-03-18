@@ -1,0 +1,22 @@
+img.indexheader{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+table.indexlist{
+	margin-left: auto;
+    margin-right: auto;
+    width:580px;
+    margin-top:1em;
+    position:relative;
+}
+
+td.indexlist{
+    font-size:x-large;
+    font-family: Fjalla;
+    line-height:300%;
+    width:145px;
+    text-align:center;
+}
