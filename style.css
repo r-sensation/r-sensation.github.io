@@ -1,3 +1,53 @@
+/**************************************\
+ *全般
+\**************************************/
+
+html{
+    background-color: white;
+}
+
+body{
+    width:580px;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+a:link{
+    color:#0000ff;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#0000ff;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#aaaaff;
+    text-decoration: none; 
+}
+
+img.pageheader{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+p.back{
+    margin: 3em;
+    text-align: center;
+}
+
+/**************************************\
+ *トップページ
+\**************************************/
+
 img.indexheader{
     display: block;
     margin-left: auto;
@@ -19,4 +69,45 @@ td.indexlist{
     line-height:300%;
     width:145px;
     text-align:center;
+}
+
+/**************************************\
+ *小説ページ
+\**************************************/
+
+div.novel{
+    margin-right: auto;
+    margin-left: auto;
+    width: 580px;
+    margin-bottom: 2em;
+}
+
+p.novelcategory{
+    font-size: 120%;
+    text-align: center;
+    margin:2em;
+}
+
+h1.noveltitle{
+    font-size: 150%;
+}
+
+p.novellink{
+    text-align: right;
+}
+
+/**************************************\
+ *イラストページ
+\**************************************/
+
+/**************************************\
+ *リンクページ
+\**************************************/
+
+h1.linkcategory{
+    font-size:150%;
+}
+
+li.link{
+    margin:1em;
 }
