@@ -17,17 +17,17 @@ body{
     margin-right: auto;
     margin-left: auto;
     background-color: white;
-    color:#777777;
+    color:#555555;
 
 }
 
 a:link{
-    color:#aaaaff;
+    color:#9999ff;
     text-decoration: none;
 }
 
 a:visited {
-    color:#aaaaff;
+    color:#9999ff;
     text-decoration: none;
 }
 
