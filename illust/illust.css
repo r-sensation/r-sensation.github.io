@@ -63,3 +63,11 @@ img.illust{
     border-width: 1px;
     border-color: #999999;
 }
+
+p.illusttitle{
+    text-align: center;
+}
+
+p.illustcomment{
+    text-align: center;
+}
