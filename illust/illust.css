@@ -2,6 +2,8 @@
  *全般
 \**************************************/
 
+@import url(https://fonts.googleapis.com/css?family=Alice);
+
 html{
     background-color: white;
 }
@@ -41,7 +43,8 @@ img.pageheader{
 p.back{
     margin: 3em;
     text-align: center;
-    font-family: Fjalla;
+    font-family: Alice;
+    font-size: 130%;
 }
 
 
