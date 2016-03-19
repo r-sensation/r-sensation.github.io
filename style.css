@@ -17,20 +17,22 @@ body{
     margin-right: auto;
     margin-left: auto;
     background-color: white;
+    color:#777777;
+
 }
 
 a:link{
-    color:#0000ff;
+    color:#aaaaff;
     text-decoration: none;
 }
 
 a:visited {
-    color:#0000ff;
+    color:#aaaaff;
     text-decoration: none;
 }
 
 a:hover{
-    color:#aaaaff;
+    color:#0000ff;
     text-decoration: none; 
 }
 
